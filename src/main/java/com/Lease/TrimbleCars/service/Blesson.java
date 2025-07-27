@@ -5,4 +5,8 @@ public class Blesson {
     Blesson(){
         
     }
+
+    public static void main(String[] args) {
+        
+    }
 }
