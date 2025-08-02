@@ -1,22 +1,8 @@
 package com.Lease.TrimbleCars.service;
 
-public class Bless {
-    String s;
-    Bless(){
-        super();
-        this.s="bless";
-    }
+public class Bless extends RuntimeException{
 
-    public static void main(String[] args) {
-        Bless b=    new Bless();
-        Bless b2=    new Bless();
-
-        new Bless();
-        new B
-    }
-
-    public static void commit1()
-    {
-
+    Bless(String s){
+        super(s);
     }
 }
