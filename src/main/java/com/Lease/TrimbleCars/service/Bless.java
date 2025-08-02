@@ -8,6 +8,9 @@ public class Bless {
     }
 
     public static void main(String[] args) {
+        Bless b=    new Bless();
+        Bless b2=    new Bless();
+
         new Bless();
         new B
     }
