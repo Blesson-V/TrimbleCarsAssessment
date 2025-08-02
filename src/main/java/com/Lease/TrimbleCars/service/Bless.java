@@ -7,4 +7,8 @@ public class Bless {
         this.s="bless";
     }
 
+    public static void main(String[] args) {
+        
+    }
+
 }
