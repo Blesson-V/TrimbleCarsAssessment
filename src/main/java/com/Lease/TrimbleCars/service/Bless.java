@@ -9,4 +9,7 @@ public class Bless extends RuntimeException{
     public static void main(String[] args) {
         demo();
     }
+
+    private static void demo() {
+    }
 }
