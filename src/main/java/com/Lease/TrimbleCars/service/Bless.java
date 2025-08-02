@@ -1,8 +1,8 @@
 package com.Lease.TrimbleCars.service;
 
-public class Blesson {
+public class Bless {
 
-    Blesson(){
+    Bless(){
         
     }
 
