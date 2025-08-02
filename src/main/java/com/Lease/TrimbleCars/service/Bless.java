@@ -10,7 +10,7 @@ public class Bless {
         
     }
 
-    public static void commit2()
+    public static void commit1()
     {
 
     }
