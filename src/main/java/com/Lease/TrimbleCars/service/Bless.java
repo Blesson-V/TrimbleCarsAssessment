@@ -1,9 +1,9 @@
 package com.Lease.TrimbleCars.service;
 
-public class Blesson {
+public class Bless {
 
-    Blesson(){
-        
+    Bless(){
+        super();
     }
 
     public static void main(String[] args) {
