@@ -8,7 +8,11 @@ public class Bless {
     }
 
     public static void main(String[] args) {
-        
+        new B
     }
 
+    public static void commit1()
+    {
+
+    }
 }
